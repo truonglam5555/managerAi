@@ -1,5 +1,6 @@
 {
   "nummorph": true,
   "convertpro": true,
-  "metricmind": true
+  "metricmind": true,
+  "unitpro": false
 }
