@@ -2,5 +2,6 @@
   "nummorph": true,
   "convertpro": true,
   "metricmind": true,
-  "unitpro": true
+  "unitpro": true,
+  "unitease":false
 }
