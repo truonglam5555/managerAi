@@ -5,6 +5,6 @@
   "unitpro": true,
   "unitease":true,
   "unitory": true,
-  "anyscale":false,
+  "anyscale":true,
   "quantumscale":false
 }
