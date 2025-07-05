@@ -7,8 +7,8 @@
   "unitory": true,
   "anyscale":true,
   "quantumscale":true,
-  "oneconvert":true,
-  "unitopia":false,
+  "oneconvert":false,
+  "unitopia":true,
   "zentro":true,
   "flexiconvert" : true
 }
