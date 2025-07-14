@@ -13,5 +13,6 @@
   "flexiconvert" : true,
   "calibrica":true,
   "numto":true,
-  "metronix":true
+  "metronix":true,
+  "minivert":true
 }
