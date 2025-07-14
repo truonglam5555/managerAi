@@ -10,5 +10,8 @@
   "oneconvert":false,
   "unitopia":true,
   "zentro":true,
-  "flexiconvert" : true
+  "flexiconvert" : true,
+  "calibrica":true,
+  "numto":true,
+  "metronix":true
 }
