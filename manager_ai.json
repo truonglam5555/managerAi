@@ -14,5 +14,6 @@
   "calibrica":true,
   "numto":true,
   "metronix":true,
-  "minivert":true
+  "minivert":true,
+"converteasy" : false
 }
