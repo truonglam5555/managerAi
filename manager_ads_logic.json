@@ -1,0 +1,8 @@
+{
+   "isShowAds": false,
+   "isAppStoreTest" : true,
+   "adUnitIdBannerAndroid": "ca-app-pub-3940256099942544/9214589741",
+   "adUnitIdBanneriOS": "ca-app-pub-3940256099942544/2435281174",
+   "adUnitIdInterstitialAndroid": "ca-app-pub-3940256099942544/1033173712",
+   "adUnitIdInterstitialiOS": "ca-app-pub-3940256099942544/4411468910"
+}
